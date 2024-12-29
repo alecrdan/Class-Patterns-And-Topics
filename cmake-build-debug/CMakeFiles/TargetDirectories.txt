@@ -1,0 +1,3 @@
+C:/Users/alecd/Desktop/Code/Personal Projects/ClassPatternsAndTopics/cmake-build-debug/CMakeFiles/ClassPatternsAndTopics.dir
+C:/Users/alecd/Desktop/Code/Personal Projects/ClassPatternsAndTopics/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alecd/Desktop/Code/Personal Projects/ClassPatternsAndTopics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
